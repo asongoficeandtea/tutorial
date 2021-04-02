@@ -1,0 +1,4 @@
+*.exe
+/__pycache__
+/service2/tests/__pycache__
+/service3/tests/__pycache__
